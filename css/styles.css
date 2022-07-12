@@ -164,3 +164,37 @@ h3{
     padding: 0 20%;
   }
 }
+
+/* Call to Action Section */
+
+#cta{
+  background-color: #ff4c68;
+  padding: 7% 15%;
+}
+
+.cta-container{
+  color: white;
+  text-align: center;
+}
+.cta-title{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+#cta button{
+  margin: 5% 3% 5% 0;
+}
+
+/* Footer Section */
+#footer{
+  padding: 4% 19%;
+  text-align: center;
+}
+
+.footer-container{
+  margin-bottom: 3%;
+}
+
+.footer-container div{
+  display: inline-block;
+  margin: 5px 7px;
+}
